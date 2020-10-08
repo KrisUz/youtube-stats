@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Youtube API
-You will need your Youtube API (open src/youtube file replace 'API Key' with your 'youtube key' for app run stats.)
+You will need your Youtube API (open src/variou/youtube file and replace the 'API Key' with your 'youtube key' for app run stats.)
 
 ## Available Scripts
 
