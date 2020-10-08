@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Youtube API
+You will need your Youtube API (open src/youtube file replace 'API Key' with your 'youtube key' for app run stats.)
+
 ## Available Scripts
 
 This project was done following steps by step guide from Travis Media (https://www.youtube.com/watch?v=VNmdw9ZNr1I)
