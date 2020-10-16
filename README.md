@@ -5,7 +5,7 @@ To run this app, you will need your Youtube API (open src/various/youtube file a
 
 ## Available Scripts
 
-This project was done following steps by step guide from Travis Media (https://www.youtube.com/watch?v=VNmdw9ZNr1I)
+This project is based on Travis Media (https://www.youtube.com/watch?v=VNmdw9ZNr1I)
 
 ## watch available video
 
